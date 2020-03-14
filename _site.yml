@@ -1,0 +1,13 @@
+name: "Aliisa Koivisto's webpage"
+navbar:
+  title: "HOME"
+  left:
+    - text: "Bio"
+      href: CV.html
+output_dir: "."
+output:
+  html_document:
+    theme: yeti
+    highlight: textmate
+#    include:
+#      after_body: _footer.html
